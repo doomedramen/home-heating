@@ -1,0 +1,12 @@
+{
+  "name": "home-heating",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "node-tado-client": "^0.13.7"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1"
+  }
+}
